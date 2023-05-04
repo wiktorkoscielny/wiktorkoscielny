@@ -15,7 +15,8 @@ I am a Web Developer from Poland.
 
 - :seedling: I’m currently expanding my knowledge in PHP, MySQL, and TypeScript.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]"https://www.linkedin.com/in/wiktorkoscielny/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiktorkoscielny/)
+
 ---
 
 
