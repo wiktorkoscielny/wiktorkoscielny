@@ -9,13 +9,15 @@
 
 ---
 
+### :man_technologist: About Me :
+
 I am a Web Developer from Poland.
 
 - :telescope: I’m working as a Web Developer using both frontend and backend techonolgies.
 
 - :seedling: I’m currently expanding my knowledge in PHP, MySQL, and TypeScript.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiktorkoscielny/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktorkoscielny/)
 
 ---
 
